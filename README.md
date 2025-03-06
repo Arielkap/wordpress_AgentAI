@@ -1,1 +1,1 @@
-# wordpress_AgentAI
+# wordpress-seo-agent
